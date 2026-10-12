@@ -224,6 +224,4 @@ JUnit 5와 Mockito를 이용해 검색 결과 변환, 정렬 조건 및 예외 �
 
 <div align="center">
 
-**Team Project · 개인 담당: Backend Search**
-
 </div>
